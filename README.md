@@ -11,7 +11,7 @@ Avaliaremos seu conhecimento técnico nas linguagens, técnicas de desenvolvimen
 ## Observações
 * Questões que você não sabe a resposta podem ser deixadas em branco
 * O teste em Node deverá ser feito utilizando a versão 6.x ou 8.x
-* O teste em PHP deverá ser feito utilizando qualquer versão acima da 5.4
+* O teste em PHP deverá ser feito utilizando qualquer versão >= 5.4
 * É permitido usar bibliotecas open-source, desde que seja usado npm/yarn e composer
 
 ## Diferenciais
